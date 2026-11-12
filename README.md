@@ -1,4 +1,4 @@
-# Hi, I'm Rick Sanchez 👋
+# Hi, I'm Shayan Monsef 👋
 
 I build browser extensions and Android apps & games — small tools, shipped
 fast, designed to be genuinely useful.
